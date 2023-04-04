@@ -12,4 +12,12 @@
 
 
 ### This project was built with:
-* [![Expo](https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/38066/UP0R2X0zSPAeasVmo1Zr)](https://expo.dev/)
+
+## Frontend:
+* Expo CLI
+* NativeWind
+* Some library: expo-av, axios, ...
+
+## Backend:
+* Nodejs
+* Database: MongDB
