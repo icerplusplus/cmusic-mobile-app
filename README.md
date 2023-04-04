@@ -16,7 +16,7 @@
 #### Frontend:
 * Expo CLI
 * NativeWind
-* Some library: expo-av, axios, ...
+* Some library: expo-av, axios, @reduxjs/toolkit ...
 
 #### Backend:
 * Nodejs
