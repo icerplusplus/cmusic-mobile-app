@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 11a968243e591998d2c50d0a231b078cf8220b79
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
