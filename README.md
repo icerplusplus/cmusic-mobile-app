@@ -13,11 +13,11 @@
 
 ### This project was built with:
 
-## Frontend:
+#### Frontend:
 * Expo CLI
 * NativeWind
 * Some library: expo-av, axios, ...
 
-## Backend:
+#### Backend:
 * Nodejs
 * Database: MongDB
