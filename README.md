@@ -12,4 +12,4 @@
 
 
 ### This project was built with:
-* [![Expo][Next.js]][https://expo.dev/]
+* [![Expo][https://bom.so/WgM3ZV]][https://expo.dev/]
